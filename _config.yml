@@ -1,6 +1,6 @@
 name: SHUTTERWHALE
 favicon: null
-layout_spectrum: 0.5646219351328909
+layout_spectrum: 1
 typography_spectrum: 0.53583
 title: SHUTTERWHALE
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#393939'
-    - '#6bb6bd'
-    - '#7e7e7e'
-    - '#5b5b5b'
-  brandStrength: 0.6432928843423724
-  lightness: 0.7485581915825605
-  saturation: 0.44109325879253447
-  rhythmicContrast: 0.16981612937524915
+    - '#26a9e1'
+    - '#201e1f'
+    - '#696768'
+    - '#c7c5c6'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
