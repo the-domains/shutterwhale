@@ -1,0 +1,28 @@
+name: SHUTTERWHALE
+favicon: null
+layout_spectrum: 0.5646219351328909
+typography_spectrum: 0.33205463690683246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6432928843423724
+  lightness: 0.7485581915825605
+  saturation: 0.44109325879253447
+  rhythmicContrast: 0.16981612937524915
+purpose: []
