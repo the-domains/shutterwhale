@@ -1,7 +1,7 @@
 name: SHUTTERWHALE
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.53583
+layout_spectrum: 0.25948
+typography_spectrum: 0.47682
 title: SHUTTERWHALE
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#c7c5c6'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.8125
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
